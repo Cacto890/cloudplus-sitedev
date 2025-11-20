@@ -3,7 +3,7 @@
 import { createContext, useContext, useEffect, useRef, useState, ReactNode } from "react"
 
 const playlist = [
-  { file: '/CANUBE.mp3', title: 'CAN U BE', artist: 'Kanye West' },
+  { file: '/CANUBE.wav', title: 'CAN U BE', artist: 'Kanye West' },
   { file: '/MARGIELA.mp3', title: 'margiela', artist: 'Ken Carson' },
   { file: '/ALLRED.mp3', title: 'ALL RED', artist: 'Playboi Carti' },
 ]

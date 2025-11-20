@@ -51,10 +51,10 @@ const projects: Record<string, { title: string; description: string; route?: str
     description: "Free-form drawing and creative tool",
     route: "/code/ar-01"
   },
-  "IS-01": {
-    title: "Installation Scripts",
-    description: "Common install scripts for development tools and services",
-    route: "/code/is-01"
+  "DR-01": {
+    title: "Drawing App",
+    description: "Advanced drawing with brushes and colors",
+    route: "/code/dr-01"
   },
   "24918": {
     title: "Project Alpha",
