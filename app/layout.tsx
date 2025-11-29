@@ -17,9 +17,9 @@ export const metadata: Metadata = {
   title: 'CloudPlus',
   description: 'CloudPlus - Cloud Solutions',
   icons: {
-    icon: '/icon.svg',
+    icon: '/favicon.ico',
   },
-  generator: 'v0.app'
+  generator: 'Cacto'
 }
 
 export default function RootLayout({
